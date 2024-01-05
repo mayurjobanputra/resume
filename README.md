@@ -1,4 +1,4 @@
-# Various versions of my Resume signified by Release versions
+# Various versions of my Resume
 
 ## Jan 2024
 
