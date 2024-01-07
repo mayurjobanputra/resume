@@ -2,12 +2,12 @@
 
 ## Jan 2024
 
-- Product Manager (Before Alex R reviews):
+- Product Manager (Revision 1 - Before Alex recommendations):
   - [Mayur Jobanputra Resume - Product Manager 2024.pdf](https://github.com/mayurjobanputra/resume/files/13847473/Mayur.Jobanputra.Resume.-.Product.Manager.2024.pdf)
   - [Mayur Jobanputra Resume - Product Manager 2024.docx](https://github.com/mayurjobanputra/resume/files/13847474/Mayur.Jobanputra.Resume.-.Product.Manager.2024.docx)
 - Product Manager (Revision 2 - after action/impact template)
-  - [Mayur Jobanputra Resume - Product Manager 2024.docx](https://github.com/mayurjobanputra/resume/files/13854921/Mayur.Jobanputra.Resume.-.Product.Manager.2024.docx)
   - [Mayur Jobanputra Resume - Product Manager 2024.pdf](https://github.com/mayurjobanputra/resume/files/13854923/Mayur.Jobanputra.Resume.-.Product.Manager.2024.pdf)
+  - [Mayur Jobanputra Resume - Product Manager 2024.docx](https://github.com/mayurjobanputra/resume/files/13854921/Mayur.Jobanputra.Resume.-.Product.Manager.2024.docx)
 - Product Manager (After Alex R reviews):
   - tba
   - tba   
